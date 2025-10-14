@@ -1,0 +1,13 @@
+,Month,Product,Units Sold,Revenue,Region,Rating
+0,Jan,Apple,110,1200,North,3.0
+1,Feb,Banana,75,800,South,4.5
+2,Mar,Cherry,130,1100,East,4.0
+3,Apr,Apple,95,1500,West,3.5
+4,May,Banana,80,900,North,3.5
+5,Jun,Cherry,120,1420,South,3.8
+6,Jul,Apple,102,1700,East,4.25
+7,Aug,Banana,110,1600,West,4.2
+8,Sep,Cherry,85,1250,North,3.7
+9,Oct,Apple,145,1890,South,4.5
+10,Nov,Banana,130,1750,East,4.1
+11,Dec,Cherry,150,2100,West,4.6
