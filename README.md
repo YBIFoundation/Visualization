@@ -1,2 +1,2 @@
-# visualization
+# Visualization
 Data Visualization with Python
